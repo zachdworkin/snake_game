@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"BLANK GAME",
+  "%Name":"snake_game",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,7 +32,7 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"BLANK GAME",
+  "name":"snake_game",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
