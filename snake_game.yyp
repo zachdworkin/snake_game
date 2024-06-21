@@ -34,12 +34,14 @@
   },
   "name":"snake_game",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"SneckObj_Player","path":"objects/SneckObj_Player/SneckObj_Player.yy",},},
+    {"id":{"name":"PlayScreen","path":"rooms/PlayScreen/PlayScreen.yy",},},
+    {"id":{"name":"Sneck_Head","path":"sprites/Sneck_Head/Sneck_Head.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"PlayScreen","path":"rooms/PlayScreen/PlayScreen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
