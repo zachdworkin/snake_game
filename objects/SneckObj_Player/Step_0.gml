@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Keyboard Input Movement
 // You can write your code in this editor
 switch (keyboard_key) {
 	case vk_left:
