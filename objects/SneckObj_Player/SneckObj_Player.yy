@@ -32,7 +32,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Sneck_Head",
     "path":"sprites/Sneck_Head/Sneck_Head.yy",
